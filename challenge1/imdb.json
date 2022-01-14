@@ -1,0 +1,1502 @@
+[
+  {
+    "position": 1,
+    "name": "Um Sonho de Liberdade",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "9,2"
+  },
+  {
+    "position": 2,
+    "name": "O Poderoso Chefão",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "9,1"
+  },
+  {
+    "position": 3,
+    "name": "O Poderoso Chefão II",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "9,0"
+  },
+  {
+    "position": 4,
+    "name": "Batman: O Cavaleiro das Trevas",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "9,0"
+  },
+  {
+    "position": 5,
+    "name": "12 Homens e uma Sentença",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,9"
+  },
+  {
+    "position": 6,
+    "name": "A Lista de Schindler",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,9"
+  },
+  {
+    "position": 7,
+    "name": "O Senhor dos Anéis: O Retorno do Rei",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,9"
+  },
+  {
+    "position": 8,
+    "name": "Pulp Fiction: Tempo de Violência",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,8"
+  },
+  {
+    "position": 9,
+    "name": "Três Homens em Conflito",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,8"
+  },
+  {
+    "position": 10,
+    "name": "O Senhor dos Anéis: A Sociedade do Anel",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,8"
+  },
+  {
+    "position": 11,
+    "name": "Clube da Luta",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 12,
+    "name": "Forrest Gump: O Contador de Histórias",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 13,
+    "name": "A Origem",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 14,
+    "name": "O Senhor dos Anéis: As Duas Torres",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 15,
+    "name": "O Império Contra-Ataca",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 16,
+    "name": "Matrix",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,7"
+  },
+  {
+    "position": 17,
+    "name": "Os Bons Companheiros",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 18,
+    "name": "Um Estranho no Ninho",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 19,
+    "name": "Homem-Aranha: Sem Volta para Casa",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 20,
+    "name": "Os Sete Samurais",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 21,
+    "name": "Seven: Os Sete Crimes Capitais",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 22,
+    "name": "O Silêncio dos Inocentes",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 23,
+    "name": "Cidade de Deus",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 24,
+    "name": "A Felicidade Não se Compra",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 25,
+    "name": "A Vida é Bela",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 26,
+    "name": "O Resgate do Soldado Ryan",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,6"
+  },
+  {
+    "position": 27,
+    "name": "Guerra nas Estrelas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 28,
+    "name": "Interestelar",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 29,
+    "name": "A Viagem de Chihiro",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 30,
+    "name": "À Espera de um Milagre",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 31,
+    "name": "Parasita",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 32,
+    "name": "O Profissional",
+    "image": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 33,
+    "name": "Harakiri",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 34,
+    "name": "O Pianista",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 35,
+    "name": "O Exterminador do Futuro 2 - O Julgamento Final",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 36,
+    "name": "De Volta para o Futuro",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 37,
+    "name": "Os Suspeitos",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 38,
+    "name": "Psicose",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 39,
+    "name": "O Rei Leão",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 40,
+    "name": "Tempos Modernos",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 41,
+    "name": "Túmulo dos Vagalumes",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 42,
+    "name": "A Outra História Americana",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 43,
+    "name": "Whiplash: Em Busca da Perfeição",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 44,
+    "name": "Gladiador",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 45,
+    "name": "Luzes da Cidade",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 46,
+    "name": "Os Infiltrados",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 47,
+    "name": "Intocáveis",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 48,
+    "name": "O Grande Truque",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,5"
+  },
+  {
+    "position": 49,
+    "name": "Casablanca",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 50,
+    "name": "Era uma Vez no Oeste",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 51,
+    "name": "Janela Indiscreta",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 52,
+    "name": "Cinema Paradiso",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 53,
+    "name": "Alien - O 8º Passageiro",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 54,
+    "name": "Apocalypse Now",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 55,
+    "name": "Amnésia",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 56,
+    "name": "Os Caçadores da Arca Perdida",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 57,
+    "name": "O Grande Ditador",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 58,
+    "name": "Django Livre",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 59,
+    "name": "A Vida dos Outros",
+    "image": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 60,
+    "name": "Glória Feita de Sangue",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 61,
+    "name": "Crepúsculo dos Deuses",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 62,
+    "name": "WALL·E",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 63,
+    "name": "Vingadores: Guerra Infinita",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 64,
+    "name": "Testemunha de Acusação",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA4MWNkMTctZDQ0Mi00MTY2LThjYTAtNWM5OTY3NzA4MzIyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 65,
+    "name": "O Iluminado",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 66,
+    "name": "Homem-Aranha no Aranhaverso",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 67,
+    "name": "Dr. Fantástico",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,4"
+  },
+  {
+    "position": 68,
+    "name": "Princesa Mononoke",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 69,
+    "name": "Oldboy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 70,
+    "name": "Coringa",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 71,
+    "name": "Your Name.",
+    "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 72,
+    "name": "Viva: A Vida é uma Festa",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 73,
+    "name": "Batman: O Cavaleiro das Trevas Ressurge",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 74,
+    "name": "Aliens: O Resgate",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 75,
+    "name": "Era uma Vez na América",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 76,
+    "name": "Vingadores: Ultimato",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 77,
+    "name": "Cafarnaum",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 78,
+    "name": "O Barco: Inferno no Mar",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 79,
+    "name": "Céu E Inferno",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 80,
+    "name": "3 Idiotas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 81,
+    "name": "Toy Story",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 82,
+    "name": "Amadeus",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 83,
+    "name": "Beleza Americana",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 84,
+    "name": "Coração Valente",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 85,
+    "name": "Bastardos Inglórios",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 86,
+    "name": "Gênio Indomável",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 87,
+    "name": "Hamilton",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 88,
+    "name": "Star Wars, Episódio VI: O Retorno do Jedi",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 89,
+    "name": "Vá e Veja",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 90,
+    "name": "2001: Uma Odisséia no Espaço",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 91,
+    "name": "Cães de Aluguel",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 92,
+    "name": "Como Estrelas na Terra",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 93,
+    "name": "Um Corpo que Cai",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 94,
+    "name": "M, o Vampiro de Dusseldorf",
+    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 95,
+    "name": "A Caça",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 96,
+    "name": "Cidadão Kane",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 97,
+    "name": "Réquiem para um Sonho",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 98,
+    "name": "Cantando na Chuva",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 99,
+    "name": "Intriga Internacional",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 100,
+    "name": "Brilho Eterno de uma Mente sem Lembranças",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 101,
+    "name": "Viver",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 102,
+    "name": "Ladrões de Bicicletas",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 103,
+    "name": "Lawrence da Arábia",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,3"
+  },
+  {
+    "position": 104,
+    "name": "O Garoto",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 105,
+    "name": "Nascido para Matar",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 106,
+    "name": "Dangal",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 107,
+    "name": "Incêndios",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 108,
+    "name": "Se Meu Apartamento Falasse",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 109,
+    "name": "Pacto de Sangue",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRiNGQ0NzUtZjczMS00ZjIzLWI4NjAtY2ZiNTM2MGQxZGFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 110,
+    "name": "Metrópolis",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 111,
+    "name": "Meu Pai",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 112,
+    "name": "Taxi Driver: Motorista de Táxi",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 113,
+    "name": "Laranja Mecânica",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 114,
+    "name": "A Separação",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 115,
+    "name": "Golpe de Mestre",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 116,
+    "name": "Scarface",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 117,
+    "name": "Snatch: Porcos e Diamantes",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 118,
+    "name": "1917",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 119,
+    "name": "O Fabuloso Destino de Amélie Poulain",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 120,
+    "name": "O Sol é para Todos",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 121,
+    "name": "Toy Story 3",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 122,
+    "name": "A Canção da Estrada",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE5YmMxYjEtZjNjNC00NjM2LWE2ZjctOTkyNGMxODRiMGNiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 123,
+    "name": "Por uns Dólares a Mais",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 124,
+    "name": "Up: Altas Aventuras",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 125,
+    "name": "Indiana Jones e a Última Cruzada",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 126,
+    "name": "Fogo Contra Fogo",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 127,
+    "name": "Los Angeles: Cidade Proibida",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 128,
+    "name": "Yojimbo, o Guarda-Costas",
+    "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 129,
+    "name": "Ran",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 130,
+    "name": "Duro de Matar",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 131,
+    "name": "Green Book: O Guia",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 132,
+    "name": "Rashomon",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 133,
+    "name": "A Queda! As Últimas Horas de Hitler",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 134,
+    "name": "Monty Python em Busca do Cálice Sagrado",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 135,
+    "name": "A Malvada",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 136,
+    "name": "Quanto Mais Quente Melhor",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 137,
+    "name": "Batman Begins",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 138,
+    "name": "Os Imperdoáveis",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 139,
+    "name": "Filhos do Paraíso",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 140,
+    "name": "O Castelo Animado",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 141,
+    "name": "O Lobo de Wall Street",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 142,
+    "name": "Jai Bhim",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY67_CR4,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 143,
+    "name": "Julgamento em Nuremberg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 144,
+    "name": "Sangue Negro",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 145,
+    "name": "Fugindo do Inferno",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 146,
+    "name": "Cassino",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 147,
+    "name": "O Tesouro da Sierra Madre",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,2"
+  },
+  {
+    "position": 148,
+    "name": "O Labirinto do Fauno",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzJlMjI2NjEtY2FmNy00ZTE0LWJjYWEtZDg0YmY1ZDBlNmEyXkEyXkFqcGdeQXVyOTI5NTk5NTQ@._V1_UY67_CR4,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 149,
+    "name": "Uma Mente Brilhante",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 150,
+    "name": "O Segredo dos Seus Olhos",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 151,
+    "name": "Touro Indomável",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 152,
+    "name": "Chinatown",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 153,
+    "name": "Meu Amigo Totoro",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 154,
+    "name": "Ilha do Medo",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 155,
+    "name": "Jogos, Trapaças e Dois Canos Fumegantes",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 156,
+    "name": "Onde os Fracos Não Têm Vez",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 157,
+    "name": "Dersu Uzala",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 158,
+    "name": "Disque M para Matar",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 159,
+    "name": "Klaus",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 160,
+    "name": "Em Busca do Ouro",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 161,
+    "name": "O Enigma de Outro Mundo",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 162,
+    "name": "Três Anúncios para um Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 163,
+    "name": "O Sétimo Selo",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 164,
+    "name": "O Homem Elefante",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 165,
+    "name": "O Sexto Sentido",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 166,
+    "name": "O Show de Truman: O Show da Vida",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 167,
+    "name": "Jurassic Park: O Parque dos Dinossauros",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 168,
+    "name": "Morangos Silvestres",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjJhNTBmNTgtMDViOC00NDY2LWE4N2ItMDJiM2ZiYmQzYzliXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 169,
+    "name": "O 3º Homem",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y3OGIwNTgtYTlmMy00MDg0LWE4MTQtZDE2ODQ3ZThmNGYwXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 170,
+    "name": "Memórias de um Assassino",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 171,
+    "name": "V de Vingança",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 172,
+    "name": "Blade Runner: O Caçador de Androides",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 173,
+    "name": "Trainspotting: Sem Limites",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 174,
+    "name": "Divertida Mente",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 175,
+    "name": "A Ponte do Rio Kwai",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 176,
+    "name": "Fargo: Uma Comédia de Erros",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 177,
+    "name": "Procurando Nemo",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 178,
+    "name": "Guerreiro",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 179,
+    "name": "Kill Bill: Volume 1",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 180,
+    "name": "...E o Vento Levou",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 181,
+    "name": "Era uma Vez em Tóquio",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 182,
+    "name": "Sindicato de Ladrões",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 183,
+    "name": "Meu Pai e Meu Filho",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 184,
+    "name": "Relatos Selvagens",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 185,
+    "name": "Os Suspeitos",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 186,
+    "name": "Stalker",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 187,
+    "name": "O Grande Hotel Budapeste",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 188,
+    "name": "O Franco Atirador",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 189,
+    "name": "Duna",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 190,
+    "name": "Quando Duas Mulheres Pecam",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 191,
+    "name": "A General",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 192,
+    "name": "Gran Torino",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 193,
+    "name": "Bancando o Águia",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 194,
+    "name": "Antes do Amanhecer",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 195,
+    "name": "Mary e Max: Uma Amizade Diferente",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 196,
+    "name": "Prenda-me se for Capaz",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 197,
+    "name": "Z",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQ4ZTI5NTktOTY2ZS00NmM3LWE2ZTAtMTdjNzFmOWYzYzhkXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 198,
+    "name": "A Mulher Faz o Homem",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 199,
+    "name": "Barry Lyndon",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 200,
+    "name": "Em Nome do Pai",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 201,
+    "name": "Garota Exemplar",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 202,
+    "name": "Até o Último Homem",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 203,
+    "name": "O Quarto de Jack",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 204,
+    "name": "O Martírio de Joana D'Arc",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 205,
+    "name": "Assassinato às Cegas",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 206,
+    "name": "Ford vs Ferrari",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 207,
+    "name": "12 Anos de Escravidão",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 208,
+    "name": "Ser ou Não Ser",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 209,
+    "name": "O Grande Lebowski",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 210,
+    "name": "Sociedade dos Poetas Mortos",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 211,
+    "name": "Harry Potter e as Relíquias da Morte - Parte 2",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 212,
+    "name": "Ben-Hur",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 213,
+    "name": "Como Treinar o Seu Dragão",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 214,
+    "name": "Mad Max: Estrada da Fúria",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 215,
+    "name": "Sonata de Outono",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIyMWRlYTctMWNlMi00ZGIzLThjOTgtZjQzZjRjNmRhMDdlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 216,
+    "name": "Menina de Ouro",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 217,
+    "name": "O Salário do Medo",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 218,
+    "name": "Conta Comigo",
+    "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 219,
+    "name": "A Criada",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 220,
+    "name": "Rede de Intrigas",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 221,
+    "name": "Logan",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 222,
+    "name": "O Ódio",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,1"
+  },
+  {
+    "position": 223,
+    "name": "Rebeldia Indomável",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 224,
+    "name": "Sempre ao Seu Lado",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 225,
+    "name": "A Voz do Silêncio",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 226,
+    "name": "Os Incompreendidos",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 227,
+    "name": "Gangues de Wasseypur",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 228,
+    "name": "Platoon",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 229,
+    "name": "Spotlight: Segredos Revelados",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 230,
+    "name": "Monstros S.A.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 231,
+    "name": "Rebecca, a Mulher Inesquecível",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 232,
+    "name": "A Vida de Brian",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 233,
+    "name": "Amor à Flor da Pele",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 234,
+    "name": "Hotel Ruanda",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 235,
+    "name": "O Bandido",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 236,
+    "name": "Rush: No Limite da Emoção",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 237,
+    "name": "Rocky: Um Lutador",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 238,
+    "name": "Amores Brutos",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 239,
+    "name": "Na Natureza Selvagem",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 240,
+    "name": "Nausicaä do Vale do Vento",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 241,
+    "name": "Antes do Pôr-do-Sol",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 242,
+    "name": "Aconteceu Naquela Noite",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 243,
+    "name": "Fanny e Alexander",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmQzMDE5ZWQtOTU3ZS00ZjdhLWI0OTctZDNkODk4YThmOTRhL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 244,
+    "name": "Neon Genesis Evangelion: O Fim do Evangelho",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDAxYzU2YjEtNmNjNS00OGJlLTg3MzgtNzAwN2E1ZWFiYTg5XkEyXkFqcGdeQXVyNTkwNzYyODM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 245,
+    "name": "Andrei Rublev",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjM2MjMwNzUzN15BMl5BanBnXkFtZTgwMjEzMzE5MTE@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 246,
+    "name": "A Batalha de Argel",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 247,
+    "name": "Noites de Cabíria",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdhNmUxZmQtNmMwNC00MzE3LWE1MTUtZDgxZTYwYjEzZjcwXkEyXkFqcGdeQXVyNTA1NjYyMDk@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 248,
+    "name": "Demon Slayer - Mugen Train: O Filme",
+    "image": "https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 249,
+    "name": "A Princesa Prometida",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  },
+  {
+    "position": 250,
+    "name": "Milagre na Cela 7",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGE3N2QxN2YtM2ZlNS00MWIyLWE1NDAtYWFlN2FiYjY1MjczXkEyXkFqcGdeQXVyOTUwNzc0ODc@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "rating": "8,0"
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      .table-responsive {
+        overflow-x: auto;
+      }
+      @media only screen and (max-width: 600px) {
+        table {
+          width: 100% !important;
+        }
+      }
+      th,
+      td {
+        border-bottom: 1px solid #ddd;
+        text-align: center;
+      }
+      table {
+        width: 50%;
+        border-collapse: collapse;
+      }
+      th {
+        height: 50px;
+        text-align: center;
+        background-color: #f3f3f3;
+      }
+      tr:nth-child(odd) {
+        background-color: #f2f2f2;
+      }
+    </style>
+    <div class="table-responsive">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th>Rank & Title</th>
+            <th>IMDb Rating</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <script>
+      (async () => {
+        const response = await fetch('./imdb.json');
+        const data = await response.json();
+        const htmlList = data
+          .map(
+            list =>
+              `<tr><td><img src="${list.image}"></td><td>${list.position} - ${list.name}</td><td>${list.rating}</td></tr>`
+          )
+          .join('');
+        document.querySelector('tbody').innerHTML = htmlList;
+      })();
+    </script>
+  </body>
+</html>
