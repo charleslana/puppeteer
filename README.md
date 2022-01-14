@@ -23,7 +23,7 @@ Obter todas as imagens do site: https://httpstatusdogs.com/, para adicionar na n
 ## Next Level
 
 - [ ] Fazer uns dos casos de uso acima
-- [ ] Fazer o download de imagens e deixar em uma pasta temporária
+- [x] Fazer o download de imagens e deixar em uma pasta temporária
 
 ## Ferramentas
 
